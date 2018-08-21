@@ -3,7 +3,7 @@ import { drawChromeBoiAtCoords, toggleCycling, resize } from './canvasHelpers.js
 
 
 export default class ChromeBoisDomain extends Component {
-  <Button onClick={this.sayHi}/>
+  // <Button onClick={this.sayHi}/>
 
   handleMouseMove = (event) => {
     /* TODO: This method should capture the `x` and `y` coordinates of the mouse
